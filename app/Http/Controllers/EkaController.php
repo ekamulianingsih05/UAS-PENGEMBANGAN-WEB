@@ -11,3 +11,4 @@ class EkaController extends Controller
         return view('Eka');
     }
 }
+
